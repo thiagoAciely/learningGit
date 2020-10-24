@@ -4,5 +4,6 @@ README file
 
 ## Subtitle 
 
-simple file MODIFIED 3 on a branch, BAD CONFLICT
+simple file MODIFIED 3 on a branch, BAD CONFLICT 1
+
 
