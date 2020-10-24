@@ -4,5 +4,4 @@ README file
 
 ## Subtitle 
 
-simple file MODIFIED 3 on a branch
-
+simple file MODIFIED 3 on a branch, MASTER conflict
